@@ -1,0 +1,19 @@
+12 10
+L T I I C O O B C J 
+G B V C A R F I H O 
+L J G G M M S G H I 
+W P S A P Q Q D A J 
+B N Z N E R O D T C 
+W E X H A Y Y C L H 
+F T U O O O B I E I 
+J P T U F G L V T Z 
+Q G A E F T U J I V 
+R P S R N X A U C S 
+U J T C G A L O O T 
+B R A S I L E I R O 
+5
+atletico -- --
+campeao ae ge
+brasileiro la lj
+galo -- --
+ganhou -- --

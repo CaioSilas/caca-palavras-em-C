@@ -1,0 +1,19 @@
+12 10
+B C A M P E A O Q R 
+R Q O O O Y U Y R F 
+A A A D B J C Q N Z 
+S B T R W G V M D B 
+I H G L T L A D Z D 
+L W A Q E U K L G S 
+E F N G L T K I O P 
+I M H R R E I G S I 
+R X O O D L T C G S 
+O O U R Y N X U O F 
+R H N L M T Z Y B O 
+M V F R B X Z B N E 
+5
+atletico -- --
+campeao ab ah
+brasileiro -- --
+galo -- --
+ganhou ec jc
